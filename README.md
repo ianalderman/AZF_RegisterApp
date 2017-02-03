@@ -1,0 +1,2 @@
+# AZF_RegisterApp
+MOVED TO SAMPLES REPO
